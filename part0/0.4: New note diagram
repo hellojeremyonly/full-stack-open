@@ -1,3 +1,5 @@
 ```mermaid
-  info
+graph TD
+  A[Client] --> B[Server]
+  B --> C[Database]
 ```
