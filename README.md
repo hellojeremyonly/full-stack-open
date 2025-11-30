@@ -25,26 +25,25 @@ This repository contains my exercise solutions for the Full Stack Open course by
 - 🔍 Validation & ESLint
 
 ### Part 4 – Testing Express servers, user administration
-- 🧪 Backend testing (Jest, supertest)
+- 🧪 Backend testing 
 - 👤 User creation & authentication
 - 🔐 Token-based auth
-- 🧩 Testing frontend components
 
 ### Part 5 – Testing React apps
 - 🧪 Component testing (React Testing Library)
-- 🚦 E2E testing (Cypress)
+- 🚦 E2E testing (Playwright)
 - 📦 props.children and PropTypes
+- 🧩 Testing frontend components
 
 ### Part 6 – Advanced state management
-- 🔁 Redux
+- 🔁 Redux (React Redux, Redux Toolkit)
+- 📡 Server state management (React Query)
 - 🧩 Many reducers
-- 🌍 Async actions (Redux Thunk)
-- 🛣 React Router basics
-- 🪝 Custom hooks
+- 🌍 Async actions and Context API
 
 ### Part 7 – React router, custom hooks, styling app with CSS and webpack
-- 🚦 In-depth React Router
-- 🪝 Advanced custom hooks
+- 🚦 React Router
+- 🪝 Custom hooks
 - 🎨 CSS styling approaches
 - 📦 Webpack bundling
 - 🧱 Class components
